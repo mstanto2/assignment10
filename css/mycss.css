@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+.wrapper {
+}
+
+.head {
+	background: linear-gradient(-45deg,transparent,black,transparent);
+	background: -moz-linear-gradient(-45deg,transparent,black,transparent);
+	background: -o-linear-gradient(-45deg,transparent,black,transparent);
+	background: -webkit-linear-gradient(-45deg,transparent,black,transparent);
+}
+
+.headerimg {
+	display: block;
+	height: 300px;
+	margin: 0 auto;
+}
+
+.sidebar {
+	margin: 30px 0;
+}
+
+.contentarea {
+	margin: 30px 0;
+}
+
+.floydvid {
+	display: block;
+	margin: 0 auto;
+}
+
+.foot {
+}
+
+.footerimg {
+	display: block;
+	width: 100%
+}
+
